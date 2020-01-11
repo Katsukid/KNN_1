@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KNN_1", "KNN_1\KNN_1.csproj", "{DB70CA45-0B4B-4B36-97C7-01668E779BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB70CA45-0B4B-4B36-97C7-01668E779BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB70CA45-0B4B-4B36-97C7-01668E779BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB70CA45-0B4B-4B36-97C7-01668E779BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB70CA45-0B4B-4B36-97C7-01668E779BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A79AF784-80A6-4DCE-A8ED-17DD40C13795}
+	EndGlobalSection
+EndGlobal
